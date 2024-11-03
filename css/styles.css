@@ -58,4 +58,25 @@
             display: block;
             margin: 20px;
         }
+
+        .phone-container {
+            position: relative;
+            width: 300px; /* Adjust as needed */
+            height: 600px; /* Adjust as needed */
+            margin: 0 auto;
+        }
+        
+        .phone-image {
+            width: 100%;
+            height: auto;
+        }
+        
+        .phone-video {
+            position: absolute;
+            top: 10%; /* Adjust as needed */
+            left: 10%; /* Adjust as needed */
+            width: 80%; /* Adjust as needed */
+            height: 80%; /* Adjust as needed */
+            border-radius: 20px; /* Adjust as needed */
+        }
   
